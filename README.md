@@ -46,12 +46,12 @@ Total: **19,712** lines of code across **42** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 5 | 4 | 0 | 3 | 1 | 15 |
-| last60d | 2026-08-23 | 15 | 8 | 0 | 11 | 1 | 38 |
-| 90d | 2026-07-24 | 23 | 8 | 0 | 13 | 1 | 51 |
-| last180d | 2026-04-25 | 26 | 10 | 0 | 19 | 1 | 70 |
-| 360d | 2025-10-27 | 26 | 10 | 0 | 19 | 1 | 70 |
-| last720d | 2024-11-01 | 26 | 10 | 0 | 19 | 1 | 71 |
+| 30d | 2026-09-23 | 5 | 4 | 0 | 3 | 1 | 15 |
+| last60d | 2026-08-24 | 14 | 8 | 0 | 11 | 1 | 38 |
+| 90d | 2026-07-25 | 23 | 8 | 0 | 13 | 1 | 51 |
+| last180d | 2026-04-26 | 26 | 10 | 0 | 19 | 1 | 70 |
+| 360d | 2025-10-28 | 26 | 10 | 0 | 19 | 1 | 70 |
+| last720d | 2024-11-02 | 26 | 10 | 0 | 19 | 1 | 71 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for diskwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:55:37Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:52:01Z._
