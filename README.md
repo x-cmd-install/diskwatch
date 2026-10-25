@@ -14,12 +14,12 @@ x install diskwatch
 
 ## Code insight
 
-Total: **19,712** lines of code across **42** files in the top 5 languages.
+Total: **19,757** lines of code across **42** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 19,629 | 1,330 | 1,594 | 37 |
-| Nix | 46 | 2 | 7 | 2 |
+| Rust | 19,653 | 1,331 | 1,594 | 37 |
+| Nix | 67 | 10 | 10 | 2 |
 | Toml | 37 | 6 | 3 | 1 |
 | Markdown | 0 | 284 | 82 | 2 |
 
@@ -31,27 +31,27 @@ Total: **19,712** lines of code across **42** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.0` (2026-10-20)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-25
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 538 · **Forks**: 29 · **Open issues**: 20 · **Contributors**: 7
+- **Stars**: 539 · **Forks**: 30 · **Open issues**: 20 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 1 · **Commits**: 71
+- **Releases**: 26 · **Merged PRs**: 12 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 1 · **Commits**: 73
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 5 | 4 | 0 | 3 | 1 | 15 |
-| last60d | 2026-08-25 | 14 | 8 | 0 | 11 | 1 | 38 |
-| 90d | 2026-07-26 | 22 | 8 | 0 | 12 | 1 | 51 |
-| last180d | 2026-04-27 | 26 | 10 | 0 | 19 | 1 | 70 |
-| 360d | 2025-10-29 | 26 | 10 | 0 | 19 | 1 | 70 |
-| last720d | 2024-11-03 | 26 | 10 | 0 | 19 | 1 | 71 |
+| 30d | 2026-09-25 | 5 | 6 | 0 | 3 | 1 | 17 |
+| last60d | 2026-08-26 | 14 | 10 | 0 | 11 | 1 | 37 |
+| 90d | 2026-07-27 | 21 | 10 | 0 | 12 | 1 | 51 |
+| last180d | 2026-04-28 | 26 | 12 | 0 | 19 | 1 | 72 |
+| 360d | 2025-10-30 | 26 | 12 | 0 | 19 | 1 | 72 |
+| last720d | 2024-11-04 | 26 | 12 | 0 | 19 | 1 | 73 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for diskwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:47:13Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:44:36Z._
