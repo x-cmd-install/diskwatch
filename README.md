@@ -21,7 +21,7 @@ Total: **19,757** lines of code across **42** files in the top 5 languages.
 | Rust | 19,653 | 1,331 | 1,594 | 37 |
 | Nix | 67 | 10 | 10 | 2 |
 | Toml | 37 | 6 | 3 | 1 |
-| Markdown | 0 | 284 | 82 | 2 |
+| Markdown | 0 | 287 | 82 | 2 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **19,757** lines of code across **42** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.0` (2026-10-20)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-27
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 540 · **Forks**: 30 · **Open issues**: 20 · **Contributors**: 8
+- **Stars**: 542 · **Forks**: 30 · **Open issues**: 20 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 12 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 1 · **Commits**: 73
+- **Releases**: 26 · **Merged PRs**: 12 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 1 · **Commits**: 74
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 5 | 6 | 0 | 3 | 1 | 17 |
-| last60d | 2026-08-28 | 14 | 10 | 0 | 11 | 1 | 37 |
-| 90d | 2026-07-29 | 20 | 10 | 0 | 12 | 1 | 51 |
-| last180d | 2026-04-30 | 26 | 12 | 0 | 19 | 1 | 72 |
-| 360d | 2025-11-01 | 26 | 12 | 0 | 19 | 1 | 72 |
-| last720d | 2024-11-06 | 26 | 12 | 0 | 19 | 1 | 73 |
+| 30d | 2026-09-28 | 5 | 6 | 0 | 3 | 1 | 18 |
+| last60d | 2026-08-29 | 14 | 10 | 0 | 11 | 1 | 38 |
+| 90d | 2026-07-30 | 20 | 10 | 0 | 12 | 1 | 52 |
+| last180d | 2026-05-01 | 26 | 12 | 0 | 19 | 1 | 73 |
+| 360d | 2025-11-02 | 26 | 12 | 0 | 19 | 1 | 73 |
+| last720d | 2024-11-07 | 26 | 12 | 0 | 19 | 1 | 74 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for diskwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:16:45Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:51:23Z._
