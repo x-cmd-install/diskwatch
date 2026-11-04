@@ -32,7 +32,7 @@ Total: **20,659** lines of code across **49** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.1` (2026-11-02)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **20,659** lines of code across **49** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 14 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 1 · **Commits**: 77
+- **Releases**: 27 · **Merged PRs**: 15 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 1 · **Commits**: 78
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 5 | 7 | 1 | 3 | 1 | 15 |
-| last60d | 2026-09-04 | 14 | 12 | 1 | 12 | 1 | 41 |
-| 90d | 2026-08-05 | 21 | 12 | 1 | 13 | 1 | 55 |
-| last180d | 2026-05-07 | 27 | 14 | 1 | 20 | 1 | 76 |
-| 360d | 2025-11-08 | 27 | 14 | 1 | 20 | 1 | 76 |
-| last720d | 2024-11-13 | 27 | 14 | 1 | 20 | 1 | 77 |
+| 30d | 2026-10-05 | 5 | 8 | 0 | 2 | 1 | 16 |
+| last60d | 2026-09-05 | 14 | 13 | 0 | 12 | 1 | 42 |
+| 90d | 2026-08-06 | 21 | 13 | 0 | 13 | 1 | 56 |
+| last180d | 2026-05-08 | 27 | 15 | 0 | 20 | 1 | 77 |
+| 360d | 2025-11-09 | 27 | 15 | 0 | 20 | 1 | 77 |
+| last720d | 2024-11-14 | 27 | 15 | 0 | 20 | 1 | 78 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for diskwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:05:50Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:51:08Z._
