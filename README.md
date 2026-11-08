@@ -14,15 +14,15 @@ x install diskwatch
 
 ## Code insight
 
-Total: **20,659** lines of code across **49** files in the top 5 languages.
+Total: **21,028** lines of code across **51** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 20,486 | 1,349 | 1,672 | 40 |
+| Rust | 20,853 | 1,383 | 1,696 | 41 |
 | Nix | 67 | 10 | 10 | 2 |
-| Toml | 64 | 17 | 8 | 2 |
+| Toml | 66 | 23 | 9 | 2 |
 | Sh | 42 | 21 | 6 | 1 |
-| Markdown | 0 | 343 | 101 | 4 |
+| Markdown | 0 | 384 | 110 | 5 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **20,659** lines of code across **49** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.1` (2026-11-02)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-08
 - **Assets in release**: 9
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **20,659** lines of code across **49** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 15 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 1 · **Commits**: 78
+- **Releases**: 27 · **Merged PRs**: 17 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 1 · **Commits**: 80
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 5 | 8 | 0 | 2 | 1 | 16 |
-| last60d | 2026-09-08 | 14 | 12 | 0 | 12 | 1 | 42 |
-| 90d | 2026-08-09 | 21 | 13 | 0 | 13 | 1 | 56 |
-| last180d | 2026-05-11 | 27 | 15 | 0 | 20 | 1 | 77 |
-| 360d | 2025-11-12 | 27 | 15 | 0 | 20 | 1 | 77 |
-| last720d | 2024-11-17 | 27 | 15 | 0 | 20 | 1 | 78 |
+| 30d | 2026-10-09 | 5 | 10 | 1 | 2 | 1 | 14 |
+| last60d | 2026-09-09 | 14 | 14 | 1 | 10 | 1 | 25 |
+| 90d | 2026-08-10 | 21 | 15 | 1 | 13 | 1 | 49 |
+| last180d | 2026-05-12 | 27 | 17 | 1 | 20 | 1 | 75 |
+| 360d | 2025-11-13 | 27 | 17 | 1 | 20 | 1 | 79 |
+| last720d | 2024-11-18 | 27 | 17 | 1 | 20 | 1 | 80 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for diskwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:18:43Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:10:38Z._
