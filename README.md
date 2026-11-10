@@ -38,22 +38,22 @@ Total: **21,028** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 543 · **Forks**: 30 · **Open issues**: 21 · **Contributors**: 8
+- **Stars**: 545 · **Forks**: 30 · **Open issues**: 21 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 17 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 1 · **Commits**: 80
+- **Releases**: 27 · **Merged PRs**: 18 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 1 · **Commits**: 81
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 5 | 10 | 1 | 2 | 1 | 14 |
-| last60d | 2026-09-09 | 14 | 14 | 1 | 10 | 1 | 25 |
-| 90d | 2026-08-10 | 21 | 15 | 1 | 13 | 1 | 49 |
-| last180d | 2026-05-12 | 27 | 17 | 1 | 20 | 1 | 75 |
-| 360d | 2025-11-13 | 27 | 17 | 1 | 20 | 1 | 79 |
-| last720d | 2024-11-18 | 27 | 17 | 1 | 20 | 1 | 80 |
+| 30d | 2026-10-11 | 3 | 11 | 1 | 2 | 1 | 15 |
+| last60d | 2026-09-11 | 12 | 15 | 1 | 10 | 1 | 26 |
+| 90d | 2026-08-12 | 21 | 16 | 1 | 13 | 1 | 50 |
+| last180d | 2026-05-14 | 27 | 18 | 1 | 20 | 1 | 76 |
+| 360d | 2025-11-15 | 27 | 18 | 1 | 20 | 1 | 80 |
+| last720d | 2024-11-20 | 27 | 18 | 1 | 20 | 1 | 81 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for diskwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:10:38Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:47:55Z._
