@@ -14,15 +14,15 @@ x install diskwatch
 
 ## 代码洞察
 
-合计: **21,028** 行代码（覆盖前 5 种语言、共 **51** 个文件）。
+合计: **22,439** 行代码（覆盖前 5 种语言、共 **49** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 20,853 | 1,383 | 1,696 | 41 |
+| Rust | 22,095 | 1,481 | 1,793 | 43 |
+| Python | 171 | 7 | 23 | 1 |
 | Nix | 67 | 10 | 10 | 2 |
-| Toml | 66 | 23 | 9 | 2 |
+| Toml | 64 | 23 | 9 | 2 |
 | Sh | 42 | 21 | 6 | 1 |
-| Markdown | 0 | 384 | 110 | 5 |
 
 ## 源代码
 
@@ -32,8 +32,8 @@ x install diskwatch
 
 ## 发布
 
-- **最新版本**: `v0.7.1` (2026-11-02)
-- **最近提交**: 2026-11-08
+- **最新版本**: `v0.7.2` (2026-11-14)
+- **最近提交**: 2026-11-14
 - **Release 含资产**: 9 个
 
 ## 流行度
@@ -42,32 +42,32 @@ x install diskwatch
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 18 · **开放 PR**: 1 · **已关闭 issue**: 20 · **开放 issue**: 1 · **提交数**: 81
+- **发布数**: 28 · **已合并 PR**: 30 · **开放 PR**: 0 · **已关闭 issue**: 20 · **开放 issue**: 1 · **提交数**: 93
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 3 | 11 | 1 | 2 | 1 | 15 |
-| last60d | 2026-09-14 | 10 | 12 | 1 | 4 | 1 | 26 |
-| 90d | 2026-08-15 | 21 | 16 | 1 | 13 | 1 | 50 |
-| last180d | 2026-05-17 | 27 | 18 | 1 | 19 | 1 | 76 |
-| 360d | 2025-11-18 | 27 | 18 | 1 | 20 | 1 | 80 |
-| last720d | 2024-11-23 | 27 | 18 | 1 | 20 | 1 | 81 |
+| 30d | 2026-10-15 | 4 | 23 | 0 | 2 | 1 | 27 |
+| last60d | 2026-09-15 | 8 | 24 | 0 | 4 | 1 | 38 |
+| 90d | 2026-08-16 | 19 | 28 | 0 | 13 | 1 | 62 |
+| last180d | 2026-05-18 | 28 | 30 | 0 | 19 | 1 | 88 |
+| 360d | 2025-11-19 | 28 | 30 | 0 | 20 | 1 | 92 |
+| last720d | 2024-11-24 | 28 | 30 | 0 | 20 | 1 | 93 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [diskwatch-linux-aarch64-static.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-aarch64-static.tar.gz) | 1.1 MiB | `native/linux/arm64` |
-| [diskwatch-linux-aarch64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-aarch64.tar.gz) | 1.1 MiB | `native/linux/arm64` |
-| [diskwatch-linux-armv5te.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-armv5te.tar.gz) | 1.2 MiB | `native/linux/arm` |
-| [diskwatch-linux-x86_64-static.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-x86_64-static.tar.gz) | 1.2 MiB | `native/linux/x64` |
-| [diskwatch-linux-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-x86_64.tar.gz) | 1.2 MiB | `native/linux/x64` |
-| [diskwatch-macos-aarch64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-macos-aarch64.tar.gz) | 955.4 KiB | `native/darwin/arm64` |
-| [diskwatch-macos-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-macos-x86_64.tar.gz) | 1023.9 KiB | `native/darwin/x64` |
-| [diskwatch-windows-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-windows-x86_64.tar.gz) | 1015.3 KiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/SHA256SUMS) | 788 B | `other` |
+| [diskwatch-linux-aarch64-static.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-aarch64-static.tar.gz) | 1.2 MiB | `native/linux/arm64` |
+| [diskwatch-linux-aarch64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-aarch64.tar.gz) | 1.1 MiB | `native/linux/arm64` |
+| [diskwatch-linux-armv5te.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-armv5te.tar.gz) | 1.2 MiB | `native/linux/arm` |
+| [diskwatch-linux-x86_64-static.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-x86_64-static.tar.gz) | 1.3 MiB | `native/linux/x64` |
+| [diskwatch-linux-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-x86_64.tar.gz) | 1.2 MiB | `native/linux/x64` |
+| [diskwatch-macos-aarch64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-macos-aarch64.tar.gz) | 976.9 KiB | `native/darwin/arm64` |
+| [diskwatch-macos-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-macos-x86_64.tar.gz) | 1.0 MiB | `native/darwin/x64` |
+| [diskwatch-windows-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-windows-x86_64.tar.gz) | 1.0 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/SHA256SUMS) | 788 B | `other` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ diskwatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261113.yml` · 2026-11-13T08:13:57Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T08:12:34Z._

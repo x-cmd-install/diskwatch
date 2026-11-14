@@ -14,15 +14,15 @@ x install diskwatch
 
 ## Code insight
 
-Total: **21,028** lines of code across **51** files in the top 5 languages.
+Total: **22,439** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 20,853 | 1,383 | 1,696 | 41 |
+| Rust | 22,095 | 1,481 | 1,793 | 43 |
+| Python | 171 | 7 | 23 | 1 |
 | Nix | 67 | 10 | 10 | 2 |
-| Toml | 66 | 23 | 9 | 2 |
+| Toml | 64 | 23 | 9 | 2 |
 | Sh | 42 | 21 | 6 | 1 |
-| Markdown | 0 | 384 | 110 | 5 |
 
 ## Source
 
@@ -32,8 +32,8 @@ Total: **21,028** lines of code across **51** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.7.1` (2026-11-02)
-- **Last commit**: 2026-11-08
+- **Latest**: `v0.7.2` (2026-11-14)
+- **Last commit**: 2026-11-14
 - **Assets in release**: 9
 
 ## Popularity
@@ -42,32 +42,32 @@ Total: **21,028** lines of code across **51** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 18 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 1 · **Commits**: 81
+- **Releases**: 28 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 20 · **Open issues**: 1 · **Commits**: 93
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 3 | 11 | 1 | 2 | 1 | 15 |
-| last60d | 2026-09-14 | 10 | 12 | 1 | 4 | 1 | 26 |
-| 90d | 2026-08-15 | 21 | 16 | 1 | 13 | 1 | 50 |
-| last180d | 2026-05-17 | 27 | 18 | 1 | 19 | 1 | 76 |
-| 360d | 2025-11-18 | 27 | 18 | 1 | 20 | 1 | 80 |
-| last720d | 2024-11-23 | 27 | 18 | 1 | 20 | 1 | 81 |
+| 30d | 2026-10-15 | 4 | 23 | 0 | 2 | 1 | 27 |
+| last60d | 2026-09-15 | 8 | 24 | 0 | 4 | 1 | 38 |
+| 90d | 2026-08-16 | 19 | 28 | 0 | 13 | 1 | 62 |
+| last180d | 2026-05-18 | 28 | 30 | 0 | 19 | 1 | 88 |
+| 360d | 2025-11-19 | 28 | 30 | 0 | 20 | 1 | 92 |
+| last720d | 2024-11-24 | 28 | 30 | 0 | 20 | 1 | 93 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [diskwatch-linux-aarch64-static.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-aarch64-static.tar.gz) | 1.1 MiB | `native/linux/arm64` |
-| [diskwatch-linux-aarch64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-aarch64.tar.gz) | 1.1 MiB | `native/linux/arm64` |
-| [diskwatch-linux-armv5te.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-armv5te.tar.gz) | 1.2 MiB | `native/linux/arm` |
-| [diskwatch-linux-x86_64-static.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-x86_64-static.tar.gz) | 1.2 MiB | `native/linux/x64` |
-| [diskwatch-linux-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-linux-x86_64.tar.gz) | 1.2 MiB | `native/linux/x64` |
-| [diskwatch-macos-aarch64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-macos-aarch64.tar.gz) | 955.4 KiB | `native/darwin/arm64` |
-| [diskwatch-macos-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-macos-x86_64.tar.gz) | 1023.9 KiB | `native/darwin/x64` |
-| [diskwatch-windows-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/diskwatch-windows-x86_64.tar.gz) | 1015.3 KiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/matthart1983/diskwatch/releases/download/v0.7.1/SHA256SUMS) | 788 B | `other` |
+| [diskwatch-linux-aarch64-static.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-aarch64-static.tar.gz) | 1.2 MiB | `native/linux/arm64` |
+| [diskwatch-linux-aarch64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-aarch64.tar.gz) | 1.1 MiB | `native/linux/arm64` |
+| [diskwatch-linux-armv5te.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-armv5te.tar.gz) | 1.2 MiB | `native/linux/arm` |
+| [diskwatch-linux-x86_64-static.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-x86_64-static.tar.gz) | 1.3 MiB | `native/linux/x64` |
+| [diskwatch-linux-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-x86_64.tar.gz) | 1.2 MiB | `native/linux/x64` |
+| [diskwatch-macos-aarch64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-macos-aarch64.tar.gz) | 976.9 KiB | `native/darwin/arm64` |
+| [diskwatch-macos-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-macos-x86_64.tar.gz) | 1.0 MiB | `native/darwin/x64` |
+| [diskwatch-windows-x86_64.tar.gz](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-windows-x86_64.tar.gz) | 1.0 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/SHA256SUMS) | 788 B | `other` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for diskwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:13:57Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:12:34Z._
