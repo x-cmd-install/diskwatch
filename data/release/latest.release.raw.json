@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1277783,
       "digest": "sha256:ddeecbcd440a8717824267c14eee7c155c7b0522695c0ba88d8c4beadbbc1fe5",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-11-14T04:43:31Z",
       "updated_at": "2026-11-14T04:43:31Z",
       "browser_download_url": "https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-aarch64-static.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1185357,
       "digest": "sha256:e6424cb956cd92baa43142f2f37bb1ac1e5c3b3a27c7e99dad05d8f880fee46c",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-14T04:43:31Z",
       "updated_at": "2026-11-14T04:43:31Z",
       "browser_download_url": "https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-aarch64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1267002,
       "digest": "sha256:c61ab2f9353b73b4b6ce909d169e7b2cf6e05b588ba5e7eba3f10d9347b02aef",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-14T04:43:31Z",
       "updated_at": "2026-11-14T04:43:31Z",
       "browser_download_url": "https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-armv5te.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1363563,
       "digest": "sha256:0e092b155c896049667b5fd090f8f24dbf5c814d2b2698b2cb5826da5eda84ba",
-      "download_count": 6,
+      "download_count": 17,
       "created_at": "2026-11-14T04:43:31Z",
       "updated_at": "2026-11-14T04:43:31Z",
       "browser_download_url": "https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-x86_64-static.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1277010,
       "digest": "sha256:b101c070b7fa3c7842e11245afa9324636bd386c65d33ac3c186fdbd4ddaeaaa",
-      "download_count": 4,
+      "download_count": 15,
       "created_at": "2026-11-14T04:43:31Z",
       "updated_at": "2026-11-14T04:43:31Z",
       "browser_download_url": "https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-linux-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1000353,
       "digest": "sha256:c4c1e55b3ffaa26a02f582d9fd7adf180e223138891af9cd4bec9930c11a5f36",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-11-14T04:43:31Z",
       "updated_at": "2026-11-14T04:43:31Z",
       "browser_download_url": "https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-macos-aarch64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1069752,
       "digest": "sha256:2dd08293ccaa643f28f3712e304eae7e4b942d625911576a708d8a18d48d466c",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-11-14T04:43:31Z",
       "updated_at": "2026-11-14T04:43:31Z",
       "browser_download_url": "https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-macos-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1070699,
       "digest": "sha256:c4bdc6696281e92be2ce3ce3e2f5a3885bbea3b4387c73e4c562b647c6ec3336",
-      "download_count": 6,
+      "download_count": 15,
       "created_at": "2026-11-14T04:43:31Z",
       "updated_at": "2026-11-14T04:43:31Z",
       "browser_download_url": "https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/diskwatch-windows-x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 788,
       "digest": "sha256:3cb340824f9aec027addea15d6c0fca48b23c58587f06e8ec3c16fe876512409",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-11-14T04:43:31Z",
       "updated_at": "2026-11-14T04:43:31Z",
       "browser_download_url": "https://github.com/matthart1983/diskwatch/releases/download/v0.7.2/SHA256SUMS"
